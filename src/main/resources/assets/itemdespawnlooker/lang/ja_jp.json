@@ -1,0 +1,12 @@
+{
+
+    "looker.itemdespawnlooker.remaining_tick": "あと%sティックでデスポーン",
+    "looker.itemdespawnlooker.tick": "%sティック",
+    "looker.itemdespawnlooker.remaining_second": "あと%s秒でデスポーン",
+    "looker.itemdespawnlooker.second": "%s秒",
+    "looker.itemdespawnlooker.remaining_minute": "あと%s分でデスポーン",
+    "looker.itemdespawnlooker.minute": "%s分"
+
+
+
+}
